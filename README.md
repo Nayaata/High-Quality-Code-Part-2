@@ -1,0 +1,2 @@
+# High-Quality-Code-Part-2
+High Quality Code - Advanced: Defensive Programming, Assertions and Exceptions; Code Tuning and Optimization; Refactoring: Improving the Quality of Existing Code; Debugging; Development Tools -  Integrated Development Environments, Source Control Repositories, Automated Testing Tools, Bug Tracking, Code Analysis Tools, Build Tools, Project Hosting Sites, Deployment in the Cloud; Software Engineering Fundamentals - Software Development Practices and Methodologies; Software Quality Assurance - Planning and Tracking Software Quality
