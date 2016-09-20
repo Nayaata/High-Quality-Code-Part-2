@@ -41,8 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assertions.cs" />
+    <Compile Include="Helpers\HelperMethod.cs" />
+    <Compile Include="Algorithms\SearchingAlgorithm.cs" />
+    <Compile Include="Algorithms\SortingAlgorithm.cs" />
     <Compile Include="Startup.cs" />
+    <Compile Include="Validations\Validator.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Properties\" />
