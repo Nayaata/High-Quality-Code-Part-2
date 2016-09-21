@@ -10,7 +10,7 @@
             var isGreaterThanZero = inputLength > 0;
             var isWithNullValue = arr != null;
 
-            Debug.Assert(isGreaterThanZero, "The input array is empty. It must be a valid array!S");
+            Debug.Assert(isGreaterThanZero, "The input array is empty. It must be a valid array!");
             Debug.Assert(isWithNullValue, "The input array cannot be null!");
 
         }
