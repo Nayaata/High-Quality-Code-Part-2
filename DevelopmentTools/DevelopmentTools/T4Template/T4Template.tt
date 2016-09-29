@@ -1,0 +1,17 @@
+﻿<#@ template debug="false" hostspecific="false" language="C#" #>
+<#@ assembly name="System.Core" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ output extension=".cs" #>
+
+namespace CarStore
+{
+	using System;
+
+	public class T4Example
+	{
+	<# for(var i = 1; i <= 5; i++) { #>
+	    public int Car<#=i#> { get; set; }
+	<# } #>
+	}
+}
